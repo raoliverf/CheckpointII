@@ -1,0 +1,10 @@
+@media (min-width: 428px max-width: 1140px) {
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+}
+
+section .py-5 text-center container {
+    padding: 0;
+}
